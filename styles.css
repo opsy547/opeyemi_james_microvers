@@ -52,8 +52,10 @@ body::before {
 
   form {
     background: var(--color-darkblue-alpha);
-    
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
   }
+  
   .header {
     padding: 0 0.625rem;
     margin-bottom: 1.875rem;
