@@ -45,11 +45,7 @@ body::before {
     background-position: center;
   }
 
-  form {
-    background: var(--color-darkblue-alpha);
-    padding: 2.7rem 0.659rem;
-    border-radius: 0.27rem;
-  }
+  
   .header {
     padding: 0 0.625rem;
     margin-bottom: 1.875rem;
@@ -173,8 +169,8 @@ label {
 }
 
 .input-textarea {
-  min-height: 118px;
-  width: 98%;
+min-height: 120px;
+  width: 100%;
   padding: 0.625rem;
   resize: vertical;
 }
